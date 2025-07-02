@@ -44,7 +44,7 @@ This series progresses through each of the 18 CIS Controls. As new content is pu
     * [Link to your file for Control 9]
     * *Status: [Not Started]*
 * **Control 10: Malware Defenses**
-    * Better-Than-Antivirus-Checklist.md
+    * [Better-Than-Antivirus-Checklist.md](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Better-Than-Antivirus-Checklist.md)
     * *Status: Started*
 * **Control 11: Data Recovery**
     * [Link to your file for Control 11]
