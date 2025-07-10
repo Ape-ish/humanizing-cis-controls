@@ -46,6 +46,7 @@ This series progresses through each of the 18 CIS Controls. As new content is pu
 * **Control 10: Malware Defenses**
     * [Better-Than-Antivirus-Checklist.md](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Better-Than-Antivirus-Checklist.md)
     * [Emergency-Malware-Cleanup-Plan.md](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Emergency-Malware-Cleanup-Plan.md)
+    * [Ransomware-Readiness-and-Business-Continuity]
     * *Status: Started*
 * **Control 11: Data Recovery**
     * [Link to your file for Control 11]
