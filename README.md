@@ -14,83 +14,76 @@ The mission of this project is to translate these critical safeguards into plain
 
 ## The CIS Controls Series
 
-This series progresses through each of the 18 CIS Controls. As new content is published, links will be added here.
+## Our Learning Roadmap: The "Humanizing CIS Controls" Series
 
-* **Control 01: Inventory and Control of Enterprise Assets**
-    * [Link to your file for Control 1]
-    * *Status: [Not Started]*
-* **Control 02: Inventory and Control of Software Assets**
-    * [Link to your file for Control 2]
-    * *Status: [Not Started]*
-* **Control 03: Data Protection**
-    * [Link to your file for Control 3]
-    * *Status: [Not Started]*
-* **Control 04: Secure Configuration of Enterprise Assets and Software**
-    * [Link to your file for Control 4]
-    * *Status: [Not Started]*
-* **Control 05: Account Management**
-    * [Link to your file for Control 5]
-    * *Status: [Not Started]*
-* **Control 06: Access Control Management**
-    * [Link to your file for Control 6]
-    * *Status: [Not Started]*
-* **Control 07: Continuous Vulnerability Management**
-    * [Link to your file for Control 7]
-    * *Status: [Not Started]*
-* **Control 08: Audit Log Management**
-    * [Link to your file for Control 8]
-    * *Status: [Not Started]*
-* **Control 09: Email and Web Browser Protections**
-    * [Link to your file for Control 9]
-    * *Status: [Not Started]*
-* **Control 10: Malware Defenses**
+We aren't following the official 1-18 order. Instead, we've designed a logical learning path that starts with immediate, high-impact "quick wins" and builds from there. This makes cybersecurity more approachable and helps you build a strong foundation first.
+
+As new content is published, links will be added here.
+
+### **Phase 1: The Foundations (Quick Wins & Daily Habits)**
+*This phase focuses on actions that have an immediate effect on personal security and are easy to grasp.*
+
+* **Post 1: Malware Defenses** (Official: CIS Control #10)
     * [Better-Than-Antivirus-Checklist.md](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Better-Than-Antivirus-Checklist.md)
     * [Emergency-Malware-Cleanup-Plan.md](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Emergency-Malware-Cleanup-Plan.md)
     * [Ransomware-Readiness-and-Business-Continuity](https://github.com/Ape-ish/humanizing-cis-controls/blob/main/Ransomware-Readiness-and-Business-Continuity)
-    * *Status: Started*
-* **Control 11: Data Recovery**
-    * [Link to your file for Control 11]
-    * *Status: [Not Started]*
-* **Control 12: Network Infrastructure Management**
-    * [Link to your file for Control 12]
-    * *Status: [Not Started]*
-* **Control 13: Network Monitoring and Defense**
-    * [Link to your file for Control 13]
-    * *Status: [Not Started]*
-* **Control 14: Security Awareness and Skills Training**
-    * [Link to your file for Control 14]
-    * *Status: [Not Started]*
-* **Control 15: Service Provider Management**
-    * [Link to your file for Control 15]
-    * *Status: [Not Started]*
-* **Control 16: Application Software Security**
-    * [Link to your file for Control 16]
-    * *Status: [Not Started]*
-* **Control 17: Incident Response Management**
-    * [Link to your file for Control 17]
-    * *Status: [Not Started]*
-* **Control 18: Penetration Testing**
-    * [Link to your file for Control 18]
-    * *Status: [Not Started]*
+    * *Status: In Progress*
+* **Post 2: Email and Web Browser Protections** (Official: CIS Control #9)
+    * *Status: Up Next!*
+* **Post 3: Account Management** (Official: CIS Control #5)
+    * *Status: Not Started*
+* **Post 4: Security Awareness and Skills Training** (Official: CIS Control #14)
+    * *Status: Not Started*
+
+### **Phase 2: Strengthening Your Defenses (The Next Level)**
+*Once we have the basics, we move to more structural improvements.*
+
+* **Post 5: Continuous Vulnerability Management** (Official: CIS Control #7)
+    * *Status: Not Started*
+* **Post 6: Secure Configuration** (Official: CIS Control #4)
+    * *Status: Not Started*
+* **Post 7: Data Recovery** (Official: CIS Control #11)
+    * *Status: Not Started*
+* **Post 8: Data Protection** (Official: CIS Control #3)
+    * *Status: Not Started*
+
+### **Phase 3: Securing Your Environment (A Wider View)**
+*Here we cover the more abstract concepts that tie everything together.*
+
+* **Post 9: Inventory of Assets** (Official: CIS Controls #1 & #2)
+    * *Status: Not Started*
+* **Post 10: Network Infrastructure Management** (Official: CIS Control #12)
+    * *Status: Not Started*
+* **Post 11: Service Provider Management** (Official: CIS Control #15)
+    * *Status: Not Started*
 
 ---
 
-## Supplementary Materials & Deeper Dives
+## The CIS Ecosystem: Deeper Dives & Pro Tools
 
-Beyond the core controls, this project will also explore related concepts and resources from the [Center for Internet Security (CIS)](https://www.cisecurity.org/) to provide a more complete picture of modern cyber defense.
+The CIS Controls are the "what," but the Center for Internet Security provides a whole ecosystem of resources. This section explores the "how" and the "why," covering related models, tools, and advanced topics.
 
-* ### CIS Community Defense Model (CDM)
-    * The CDM is a data-driven model that shows how the CIS Controls are effective against the top five most prevalent attack types, including Malware and Ransomware.
-    * [Link to your file explaining the CDM]
+### **The "Pro's Toolkit" Series**
+*This series will explore the tools that professionals use to implement and measure their security posture.*
 
-* ### Living off the Land (LotL) Attacks
-    * Attackers often use legitimate tools already on a system to carry out an attack, making them difficult to detect. This section will explore CIS guidance on defending against the abuse of common tools.
-    * **Scheduled Tasks**: A common technique used by attackers to automate malicious activities for persistence or lateral movement.
-        * [Link to your file on Scheduled Tasks]
-    * **PowerShell**: A powerful administrative tool that is frequently abused by cyber threat actors.
-        * [Link to your file on PowerShell]
-    * **Windows Management Instrumentation (WMI)**: A native Windows tool used for reconnaissance, code execution, and persistence.
-        * [Link to your file on WMI]
+* **CIS Benchmarks:** How to use step-by-step guides to securely configure your operating system, browser, and more.
+    * *Status: Not Started*
+* **CIS Risk Assessment Method (RAM):** How to think like a security expert to make smart decisions.
+    * *Status: Not Started*
+* **CIS Hardened Images:** Understanding the secure starting line for cloud projects.
+    * *Status: Not Started*
+* **CIS-CAT (Configuration Assessment Tool):** How to get an automated security score for your own systems.
+    * *Status: Not Started*
+
+### **Advanced Concepts & Attack Techniques**
+
+* **CIS Community Defense Model (CDM):** A data-driven look at which defenses stop the most common attacks.
+    * *Status: Not Started*
+* **Living off the Land (LotL) Attacks:** How attackers use legitimate tools already on your computer to hide their activity.
+    * **Scheduled Tasks:** *Status: Not Started*
+    * **PowerShell:** *Status: Not Started*
+    * **Windows Management Instrumentation (WMI):** *Status: Not Started*
+
 
 ---
 
