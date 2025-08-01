@@ -1,0 +1,36 @@
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# Package files (if you package scripts later)
+dist/
+build/
+*.egg-info/
