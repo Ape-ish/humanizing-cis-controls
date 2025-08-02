@@ -6,18 +6,18 @@
 
 ## About This Project
 
-The [CIS Critical Security Controls®](https://www.cisecurity.org/controls/) are a prioritized and globally recognized set of best practices to defend against the most common cyber attacks.  While they are an incredible resource, their technical nature can sometimes be a barrier for those outside of dedicated cybersecurity roles.
+The [CIS Critical Security Controls®](https://www.cisecurity.org/controls/) are a prioritized and globally recognized set of best practices to defend against the most common cyber attacks. While they are an incredible resource, their technical nature can sometimes be a barrier for those outside of dedicated cybersecurity roles.
 
-The mission of this project is to **translate these critical safeguards into plain language**.  We break down each control, explore the “why” behind it, and provide practical examples of how these concepts apply in the real world—not just for IT professionals, but for small business owners, students and anyone looking to improve their cyber hygiene.
+The mission of this project is to **translate these critical safeguards into plain language**. We break down each control, explore the “why” behind it, and provide practical examples of how these concepts apply in the real world—not just for IT professionals, but for small business owners, students, and anyone looking to improve their cyber hygiene.
 
 ## Table of Contents
 
 ### Phase 1: The Foundations (Quick Wins & Daily Habits)
 
 * **Post 1 – Malware Defenses** (CIS Control #10)
-  * [Better‑than‑Antivirus Checklist](./phase1/better-than-antivirus-checklist.md)
-  * [Emergency Malware Cleanup Plan](./phase1/emergency-malware-cleanup-plan.md)
-  * [Ransomware Readiness & Business Continuity](./phase1/ransomware-readiness-and-business-continuity.md)
+  * [Better‑than‑Antivirus Checklist](./posts/better-than-antivirus-checklist.md)
+  * [Emergency Malware Cleanup Plan](./posts/emergency-malware-cleanup-plan.md)
+  * [Ransomware Readiness & Business Continuity](./posts/ransomware-readiness-and-business-continuity.md)
 * **Post 2 – Email and Web Browser Protections** (CIS Control #9) – *Coming soon!*
 * **Post 3 – Account Management** (CIS Control #5) – *Coming soon!*
 * **Post 4 – Security Awareness and Skills Training** (CIS Control #14) – *Coming soon!*
@@ -51,8 +51,8 @@ This content is for anyone who wants to better understand cybersecurity principl
 
 ## How to Contribute
 
-Contributions are welcome!  If you find an error, have a suggestion for making a topic clearer, or want to recommend a new “deeper dive” subject, please open an issue or pull request in this repository.  See our forthcoming `CONTRIBUTING.md` for more details.
+Contributions are welcome! If you find an error, have a suggestion for making a topic clearer, or want to recommend a new “deeper dive” subject, please open an issue or pull request in this repository. See our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 ---
 
-*Note: The official CIS Controls and related documents are the property of the Center for Internet Security, Inc. (CIS®) and are licensed under a Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International Public License.  Please refer to the official [CIS website](https://www.cisecurity.org/) for the most up‑to‑date guidance.*
+*Note: The official CIS Controls and related documents are the property of the Center for Internet Security, Inc. (CIS®) and are licensed under a Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International Public License. Please refer to the official [CIS website](https://www.cisecurity.org/) for the most up‑to‑date guidance.*
