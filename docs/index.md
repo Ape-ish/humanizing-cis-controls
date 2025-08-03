@@ -40,7 +40,7 @@ Welcome! This site translates cybersecurity best practices into plain English fo
 
 ## 🧰 Resources & Tools
 - <a href="resources/resources.html" target="_blank">Resource Downloads</a>
-- <a href="scripts/check_unused_accounts.py" target="_blank">Check Unused Accounts (Python Script)</a>
+- <a [href="scripts/check_unused_accounts.py" target="_blank"](https://github.com/<your-username>/humanizing-cis-controls/blob/main/docs/scripts/check-unused-accounts.py)>Check Unused Accounts (Python Script)</a>
 
 ---
 
