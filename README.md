@@ -1,3 +1,10 @@
+🎯 Project Dual-Mission
+As a CASP+ certified architect, I built this repository to solve the communication gap in cybersecurity at two distinct levels:
+
+For the Community (SMBs & Learners): Translating dense CIS safeguards into plain-language business continuity plans, proving that effective security doesn't require an enterprise budget. (See Phase 1-3 folders)
+
+For the Enterprise (SRE & GRC Teams): [In parallel development] Creating Python-driven automation workflows to validate these controls in a scaled environment, reducing manual auditing overhead. (See the /scripts/ Dojo)
+
 # Humanizing the CIS Controls
 
 > ### *Making cybersecurity best practices accessible, understandable, and actionable for everyone.*
